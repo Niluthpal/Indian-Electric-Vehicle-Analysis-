@@ -20,4 +20,41 @@ The task is to do Primary and Secondary Analysis such as :
 
 # Tools Used
 
+1. Postgre SQL: For Analyzing the Primary Questions
+2. Power BI: For making interactive dashboard
+
+# Top 5 Key Insights Generated
+
+1. From FY 2022- 2024 OLA Electric, TVS ans Ather are the top 3 Makers and PCA Automobiles, BMW India and Volvo India India are the bottom 3 makers
+2. In 2-Wheeler Vehicle category Goa , Karnataka and Delhi are top 3 sates with highest penetration rate.
+3. In 4-Wheeler Vehicle category Goa , Delhi and Kerala are top 3 states with highest penetration rate.
+4. The top 5 makers are Tata Motors, Mahindra and Mahindra, BYD India, MG Motor, Hyundai Motor.
+5. Top- 5 States with highest CAGR are Meghalaya, Goa, Karnataka, Delhi, Rajasthan 
     
+# Secondary Analysis
+
+1. Due to the Government Policies like FAME India and benefits like 5% GST on EV's and Income Tax benefit upto 1.5 lakh the sales of EV has seen a significant Increase.
+2. Due to Rising fuel cost , enviromental concerns and Low operational cost more people are prefering to  buy Electrical Vehicles.
+3. There can be seen a positive correlation between states with higher Charging Stations and EV sales and Penetration rate.
+4. Maharshtra , Delhi and Gujrat are the top 3 states that provides most subsidies to Electric Vehicle.
+
+# Dashboard
+
+Landing Page
+
+![AtliQ Motors EV analysis-images-0](https://github.com/user-attachments/assets/1785fe1c-8cee-4f49-9ba6-863e1f9ecf70)
+
+Maker Analysis View
+
+![AtliQ Motors EV analysis-images-1](https://github.com/user-attachments/assets/d7ff68d5-d409-4517-84dc-5a0371c5cb6b)
+
+State Analysis View
+
+![AtliQ Motors EV analysis-images-2](https://github.com/user-attachments/assets/82a48e84-e160-4e27-85c8-aeb21ea76a00)
+
+Revenue Analysis View
+
+![AtliQ Motors EV analysis-images-3](https://github.com/user-attachments/assets/5cd56417-f916-43d0-ba44-b5b1a1aac2bd)
+
+
+
