@@ -1,5 +1,7 @@
 # Indian-Electric-Vehicle-Analysis
 
+ Dashboard Link: https://app.fabric.microsoft.com/view?r=eyJrIjoiZWVjYjQwMTgtMTkzNS00YmIzLWJkOGQtNDA3ZWE1MWM2N2NmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 # Problem Statement
 
 AtliQ Motors is an automotive giant from the USA specializing in electric vehicles(EV). In the last 5 years, their market share rose to 25% in electric and hybrid vehicles segment in North America. As a part of their expansion plans, they wanted to launch their bestselling models in India where their market share is less than 2%. Bruce Haryali, the chief of AtliQ Motors India wanted to do a detailed market study of existing EV/Hybrid market in India before proceeding further. Bruce gave some task which need to be analysed.
